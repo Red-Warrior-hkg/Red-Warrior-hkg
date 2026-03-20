@@ -11,7 +11,7 @@ I'm **Ahmed** — a cybersecurity engineer in the making, Python Automation Enth
 # 🛠️ Technical Arsenal:
 
 **Core Expertise:**
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Advanced Python Development** – automation scripts, network scanners, penetration testing tools, custom exploits
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Advanced Python Development** – automation scripts, network scanners, penetration testing tools
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) **Linux & System Administration** – command-line mastery, bash scripting, system hardening
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Version Control & Collaboration** – Git workflows, open-source contributions, repository management
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) **Cross-Platform Proficiency** – scripting that runs everywhere
