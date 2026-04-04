@@ -43,11 +43,10 @@ I'm **Ahmed** — a cybersecurity engineer in the making, Python Automation Enth
 
 # 📈 GitHub Impact:
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Red-Warrior-hkg&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Red-Warrior-hkg&theme=dark&hide_border=false)
 
 ### 🔥 Top Contributed Repositories
-
-![Contributions](https://github-contributor-stats.vercel.app/api?username=Red-Warrior-hkg&limit=3&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Warrior-hkg&layout=compact&theme=dark&hide_border=true)
 
 ---
 
