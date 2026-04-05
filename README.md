@@ -45,9 +45,6 @@ I'm **Ahmed** — a cybersecurity engineer in the making, Python Automation Enth
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Red-Warrior-hkg&theme=dark&hide_border=false)
 
-### 🔥 Top Contributed Repositories
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Warrior-hkg&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 # 📂 Featured Projects:
@@ -62,21 +59,17 @@ I'm **Ahmed** — a cybersecurity engineer in the making, Python Automation Enth
 ---
 
 # 📬 Let's Connect:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Red-Warrior-hkg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myprofile-not-created-yet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xahp90@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/xahp90)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle-notyet)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vhmedx10)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vhmed0631)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vhmedx10)
 
 ---
-
 ![](https://visitcount.itsvg.in/api?id=Red-Warrior-hkg&label=Profile%20Visitors&color=6&icon=5&pretty=true)
 
 ---
-
 **⚡ Fun fact:** I learned more about networks from fixing my router than from any textbook. Hands-on or nothing.
 
 *"Code is craft. Security is mindset."*
